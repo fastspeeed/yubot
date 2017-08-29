@@ -1,3 +1,9 @@
+# App
+
+## data model
+
+- https://kite.trade/docs/connect/v1/
+
 # Architecture
 
 -  https://www.quantinsti.com/blog/trading-systems-architecture/
@@ -9,7 +15,7 @@
 ## order
 ## risk
 ## strategy
-https://www.quantinsti.com/blog/algorithmic-trading-strategies/
+- https://www.quantinsti.com/blog/algorithmic-trading-strategies/
 ## exchange protocol
 - https://www.quantinsti.com/blog/connecting-fxcm-fix-detailed-tutorial/
 # history data
@@ -18,5 +24,7 @@ https://www.quantinsti.com/blog/algorithmic-trading-strategies/
 ## storge
 ## maths
 
-#Futrue
+# Futrue
 - Machine Learning
+
+
