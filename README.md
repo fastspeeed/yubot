@@ -1,0 +1,2 @@
+# yubot
+A trade bot
