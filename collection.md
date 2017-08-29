@@ -3,6 +3,7 @@
 ## data model
 
 - https://kite.trade/docs/connect/v1/
+- https://docs.gdax.com/?ruby#orders
 
 # Architecture
 
